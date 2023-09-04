@@ -1,2 +1,2 @@
-# Python-Django-Basic
-Starting point of Django Projects
+# Testing Purpose app for ChatGPT Api
+Empty Commit.
